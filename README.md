@@ -1,7 +1,7 @@
 # bts-sn1-tp
 
 ## jak and daxter speedrunning
-
+![jak cover](\images\jak1_cover.jpg)
 ## qu'es ce que le speedrunning:
 le speedrunning est le fait de finir quelque chose le plus vite possible, le plus souvent des jeux vidéo.  
 un **run** est le mot qu'on utilise pour designer une partie entière d'un jeux.  

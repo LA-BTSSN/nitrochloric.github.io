@@ -23,6 +23,8 @@ coupe le temp du dernier record mondial de beaucoup ou arriver a un goal précis
 > - All Flies
 > - All Orbs  
 
+precursor orb <img src="https://github.com/nitrochloric/nitrochloric.github.io/blob/main/Precursor_orb.png" width="250" height="250"> scout fly <img src="https://github.com/nitrochloric/nitrochloric.github.io/blob/main/scout_flies3.png" width="250" height="250"> power cell <img src="https://github.com/nitrochloric/nitrochloric.github.io/blob/main/Power_cell_render.png" width="250" height="250">
+
 chaque une des catégorie doit finir
 No LTS a pour regle de ne pas performer LST(lava tube skip) sans autre regle  
 No FCS a pour regle de ne pas performer FCS(fire canyon skip) sans autre regle  

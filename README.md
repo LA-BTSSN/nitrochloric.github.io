@@ -38,42 +38,42 @@ vous trouverez plus de detaille et les record sur [speedrun.com](https://www.spe
 
 ### les temps des trois meilleur dans chaque catégorie (ATTOW):
 
-**No LTS**
-> OutrageousJosh  54m24s
-> Mikell          55m23s
-> Piggleberry     55m41s
+**No LTS**  
+> OutrageousJosh  54m24s  
+> Mikell          55m23s  
+> Piggleberry     55m41s  
 
-**No FCS**
-> OutrageousJosh  23m36s
-> Mikell          23m45s
-> Chimforce       24m05s
+**No FCS**  
+> OutrageousJosh  23m36s  
+> Mikell          23m45s  
+> Chimforce       24m05s  
 
-**Any%**
-> OutrageousJosh  16m35s
-> Sir_Jazzberry   17m50s
-> The_Stellar     18m40s
+**Any%**  
+> OutrageousJosh  16m35s  
+> Sir_Jazzberry   17m50s  
+> The_Stellar     18m40s  
 
-**100%**
-> OutrageousJosh  1h34m50s
-> Mikell          1h36m40s
-> Piggleberry     1h36m40s
+**100%**  
+> OutrageousJosh  1h34m50s  
+> Mikell          1h36m40s  
+> Piggleberry     1h36m40s  
 
-**Orbless**
-> OutrageousJosh  1h01m56s
-> Piggleberry     1h04m13s
-> headstrong1290  1h04m41s
+**Orbless**  
+> OutrageousJosh  1h01m56s  
+> Piggleberry     1h04m13s  
+> headstrong1290  1h04m41s  
 
-**NMS**
-> Piggleberry     1h01m40s
-> OutrageousJosh  1h01m41s
-> Mikell          1h02m15s
+**NMS**  
+> Piggleberry     1h01m40s  
+> OutrageousJosh  1h01m41s  
+> Mikell          1h02m15s  
 
-**All Flies**
-> The_Stellar     43m21s
-> Sir_Jazzberry   43m23s
-> OutrageousJosh  43m24s
+**All Flies**  
+> The_Stellar     43m21s  
+> Sir_Jazzberry   43m23s  
+> OutrageousJosh  43m24s  
 
-**All Orbs**
-> OutrageousJosh  1h00m40s
-> Mikell          1h01m57s
-> aslov2137       1h04m07s
+**All Orbs**  
+> OutrageousJosh  1h00m40s  
+> Mikell          1h01m57s  
+> aslov2137       1h04m07s  
